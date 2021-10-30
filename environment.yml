@@ -1,0 +1,21 @@
+name: mtg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - notebook
+  - jupyterlab
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - umap-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - opentsne
+  - pytorch
+
